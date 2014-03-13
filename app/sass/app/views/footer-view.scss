@@ -36,7 +36,7 @@
 .social {
   background-color: #FFF;
   background-image: url(../img/social.icons.png);
-  background-size: 191px 32px;
+  background-size: 223px 32px;
   width: 32px;
   height: 32px;
   overflow: hidden;
@@ -73,5 +73,9 @@
 }
 
 .social.email {
-  background-position: -159px 1px;
+  background-position: -157px 2px;
+}
+
+.social.github {
+  background-position: -191px 1px;
 }
