@@ -1,0 +1,61 @@
+body {
+  padding-top: 40px;
+  color: #666;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4 {
+  margin: 0px 0px 10px 0;
+  color: #000;
+  font-weight: 300;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.media {
+  margin-top: 0px;
+}
+
+@media (max-width: 480px) {
+  .media-object {
+    margin-left: 0px !important;
+    margin-bottom: 0px !important;
+  }
+}
+
+@media (max-width: 766px) {
+  body {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    
+    .container {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    
+  }
+}
+
+@media (min-width: 767px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}

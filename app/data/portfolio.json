@@ -1,0 +1,86 @@
+{
+  "title": "Jonathan Cipriano",
+  "desc": "I am a creative technologist based in San Francisco, CA. Presently, I am a Creative Research &amp; Development Manager at AKQA leading development and engineering on the Google, Levi's and Anheuser-Busch accounts. Thoughout my nine year career I have created digital media and applications for some of the worlds top brands including Nike, Xbox, Target and Gap.",
+  "projects": [
+    {
+      "id": "makeourmark",
+      "client": "Levi's",
+      "title": "#MakeOurMark",
+      "desc": "Levi’s teamed up with Dave Eggers to create the Station&nbsp;to&nbsp;Station project - a tour of international artists, musicians, writers and thinkers transported by train across America. #MakeOurMark was the accompanying digital campaign that brought the experience to social networks around the world.",
+      "agency": "AKQA, FakeLove",
+      "role": "Technical Manager",
+      "tech": "NFC, Arduino, WebGL, Azure, Instagram API, SoundCloud API, Twiiter API",
+      "videoId": "85483515" 
+    },
+    {
+      "id": "airshow",
+      "client": "Google+",
+      "title": "I/O Airshow",
+      "desc": "For the 2013 Google I/O, Google+ wanted to make a big presence to show off the Platform. The I/O Airshow featured remote controlled blimps armed with HD webcams and a Raspberry Pi brain. Photos from the blimps were uploaded in real-time to a Google+ event page. Video was live streamed to YouTube. An Android tablet app accompanied the pilot allowing attendees to rotate the camera and watch a live bird’s eye view of the showroom floor.",
+      "agency": "AKQA",
+      "role": "Technical Manager",
+      "tech": "Raspberry Pi, Node.js, Python, Google+ API",
+      "videoId": "85014674" 
+    },
+    {
+      "id": "audiusa",
+      "client": "Audi USA",
+      "title": "AudiUSA.com",
+      "desc": "The new AudiUSA.com was comepletly redesigned and reengineered from the ground up. The new home of Audi&nbsp;USA's web presence features a responsive and adaptive design, an innovative configurator and intelligent search.",
+      "agency": "AKQA",
+      "role": "Technical Manager, Developer",
+      "tech": "Adobe CQ, Java, CoffeeScript, Backbone.js, SASS, Jenkins",
+      "videoId": "84931542" 
+    },
+    {
+      "id": "reach",
+      "client": "Xbox: Halo Reach",
+      "title": "Remember Reach",
+      "desc": "Halo Reach was a highly anticipated new entry into the Halo franchise for Xbox. The game’s story revolves around a group of special forces soldiers who sacrifice their lives for the future of humanity. To pay tribute to the fallen heros, a physical monument of light was created to immortalize them. Users were invited to select a point of light that would become a part of a light sculpture. In real-time a Kuka Robotics arm would place the point of light.",
+      "agency": "AKQA, Autofuss",
+      "role": "Architect, Lead Developer",
+      "tech": "Silverlight, C#.NET, Python, Kuka Robotics",
+      "videoId": "16556567" 
+    },
+    {
+      "id": "syldby",
+      "client": "Gap",
+      "title": "Style.by",
+      "desc": "Gap needed a campaign to rebuild their style cred on the web. To achieve this, relationships were developed with popular style blogs across the web. Gap provided the clothes and the bloggers created their own looks that were featured on their website as well as the main campaign site. A Style.by look book widget was developed for bloggers to impleemnt right on their site. The campaign was a shining example of media, engineering, and creative integration.",
+      "agency": "AKQA",
+      "role": "Architect, Lead Developer",
+      "tech": "Javascript, Backbone.js, SASS, SiteCore, C#.NET, Azure",
+      "videoId": "43710139" 
+    },
+    {
+      "id": "webhexer",
+      "client": "Xbox: Fable The Journey",
+      "title": "Fable Web&nbsp;Hexer",
+      "desc": "For the release of Fable: The Journey for Xbox&nbsp;Kinect, Xbox needed a way to bring the fun of Kinect to the browser. A bookmarklet was created that enabled users to destroy the internet. Using mouse gestures in the form of shapes in the browser, you could arm yourself with fire, lighting, or blades. A scoreboard kept track of all the highest scores as users brought destruction to the web.",
+      "agency": "AKQA",
+      "role": "Technical Manager, Architect",
+      "tech": "Javascript, SASS, C#.NET, Azure",
+      "videoId": "50808773" 
+    },
+    {
+      "id": "brothers",
+      "client": "Xbox: Gears of War",
+      "title": "Brothers to&nbsp;the&nbsp;End",
+      "desc": "For the third installment of the Gears of War video game franchise, Xbox wanted to celebrate the brotherhood between the two main characters of the game. To bring this to the masses, visitors to the site were directed to invite a “brother” to simultaneously click a virtual detonator. If the two “brothers” clicked the buttons within specific time frame they would be treated to a video spectacle of explosions, special content and bragging rights.",
+      "agency": "AKQA, Autofuss",
+      "role": "Architect, Lead Developer",
+      "tech": "Actionscript 3, Robotlegs, C#.NET, Azure",
+      "videoId": "43709822" 
+    },
+    {
+      "id": "tonik",
+      "client": "Wellpoint, Blue Cross of California",
+      "title": "Tonik",
+      "desc": "Tonik was designed and engineered to bring health insurance to young adults. The challenge was distilling a normally complex and boring application process down to something simple and unintimidating. The result was a series of mostly yes or no questions and an instant, auto-adjudicating application system. The product was widely successful and exceeded conversion expectations year after year.",
+      "agency": "Grey",
+      "role": "Developer",
+      "tech": "Flex, Actionscript 3, PHP, Java, WebSphere",
+      "videoId": "88562546" 
+    }
+  ]
+}

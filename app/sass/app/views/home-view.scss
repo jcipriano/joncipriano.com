@@ -1,0 +1,38 @@
+
+#home {
+  background-color: #EEE;
+  padding: 100px 0;
+
+  .first-name {
+    font-weight: 400;
+  }
+
+  p {
+    color: #666;
+    max-width: 800px;
+  }
+}
+
+@media (max-width: 480px) {
+  #home {
+    padding: 50px 0;
+  }
+}
+
+@media (max-width: 766px) {
+  #home {
+    padding: 50px 0;
+  }
+}
+
+@media (min-width: 767px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}

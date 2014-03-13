@@ -1,0 +1,27 @@
+---
+title: Jonathan Cipriano
+layout: app/html/layouts/default.hbs
+---
+			<!-- Content -->
+
+			{{#each portfolio.projects}}
+			<div id="{{id}}" class="project media row">
+				<div class="media-body span4">
+
+					<h2>{{{title}}}</h2>
+					 
+					<p>{{{desc}}}</p> 
+
+					Client: {{client}}<br/>
+					Agency: {{agency}}<br/>
+					Role: {{role}}<br/>
+					Technologies: {{tech}} 
+
+				</div>
+				<div class="pull-right media-object span8">
+					<iframe class="pull-right" src="//player.vimeo.com/video/{{videoId}}?title=0&byline=0&portrait=0&color=ffffff" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
+			</div>
+			{{/each}}
+
+			<!-- /Content -->
