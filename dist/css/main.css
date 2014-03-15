@@ -4932,8 +4932,9 @@ h3 {
     padding-left: 20px !important; } }
 #home {
   position: relative;
-  background-color: #EEE;
-  padding: 100px 0; }
+  background-color: #FFF;
+  padding-top: 100px;
+  padding-bottom: 150px; }
   #home #vis-container {
     position: absolute;
     top: 0;
@@ -4942,13 +4943,19 @@ h3 {
     height: 100%;
     z-index: 0; }
   #home h1 {
-    position: relative; }
+    position: relative;
+    margin-bottom: 5px; }
     #home h1 .first-name {
       font-weight: 400; }
   #home p {
     position: relative;
-    color: #666;
+    color: #333;
     max-width: 800px; }
+
+.webgl #home p {
+  background-color: rgba(250, 250, 250, 0.8);
+  padding: 10px;
+  border-left: 4px solid #F00; }
 
 @media (max-width: 480px) {
   #home {
