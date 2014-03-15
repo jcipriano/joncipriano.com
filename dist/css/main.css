@@ -4931,11 +4931,22 @@ h3 {
   .navbar .brand {
     padding-left: 20px !important; } }
 #home {
+  position: relative;
   background-color: #EEE;
   padding: 100px 0; }
-  #home .first-name {
-    font-weight: 400; }
+  #home #vis-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0; }
+  #home h1 {
+    position: relative; }
+    #home h1 .first-name {
+      font-weight: 400; }
   #home p {
+    position: relative;
     color: #666;
     max-width: 800px; }
 

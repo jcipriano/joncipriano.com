@@ -134,6 +134,7 @@ module.exports = function(grunt) {
          'app/js/bootstrap/bootstrap-transition.js',
          'app/js/bootstrap/bootstrap-typeahead.js',
          'app/js/app/app.js',
+         'app/js/app/vis.js',
        ],
        dest: 'dist/js/frontend.js'
       },
