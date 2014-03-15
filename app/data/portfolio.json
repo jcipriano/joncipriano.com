@@ -16,7 +16,7 @@
       "id": "airshow",
       "client": "Google+",
       "title": "I/O Airshow",
-      "desc": "For the 2013 Google I/O, Google+ wanted to make a big presence to show off the Platform. The I/O Airshow featured remote controlled blimps armed with HD webcams and a Raspberry Pi brain. Photos from the blimps were uploaded in real-time to a Google+ event page. Video was live streamed to YouTube. An Android tablet app accompanied the pilot allowing attendees to rotate the camera and watch a live bird’s eye view of the showroom floor.",
+      "desc": "For the 2013 Google I/O, Google+ wanted to make a big presence to show off the platform. The I/O Airshow featured remote controlled blimps armed with HD webcams and a Raspberry Pi brain. Photos from the blimps were uploaded in real-time to a Google+ event page. Video was live streamed to YouTube. An Android tablet app accompanied the pilot allowing attendees to rotate the camera and watch a live bird’s eye view of the showroom floor.",
       "agency": "AKQA",
       "role": "Technical Manager",
       "tech": "Raspberry Pi, Node.js, Python, Google+ API",
