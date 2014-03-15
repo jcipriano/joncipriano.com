@@ -9,7 +9,7 @@
       "desc": "Levi’s teamed up with Dave Eggers to create the Station&nbsp;to&nbsp;Station project - a tour of international artists, musicians, writers and thinkers transported by train across America. #MakeOurMark was the accompanying digital campaign that brought the experience to social networks around the world.",
       "agency": "AKQA, FakeLove",
       "role": "Technical Manager",
-      "tech": "NFC, Arduino, WebGL, Azure, Instagram API, SoundCloud API, Twiiter API",
+      "tech": "NFC, Arduino, WebGL, Azure, Instagram API, SoundCloud API, Twitter API",
       "videoId": "85483515" 
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "id": "reach",
-      "client": "Xbox: Halo Reach",
+      "client": "Xbox, Halo Reach",
       "title": "Remember Reach",
       "desc": "Halo Reach was a highly anticipated new entry into the Halo franchise for Xbox. The game’s story revolves around a group of special forces soldiers who sacrifice their lives for the future of humanity. To pay tribute to the fallen heros, a physical monument of light was created to immortalize them. Users were invited to select a point of light that would become a part of a light sculpture. In real-time a Kuka Robotics arm would place the point of light.",
       "agency": "AKQA, Autofuss",
@@ -54,7 +54,7 @@
     },
     {
       "id": "webhexer",
-      "client": "Xbox: Fable The Journey",
+      "client": "Xbox, Fable The Journey",
       "title": "Fable Web&nbsp;Hexer",
       "desc": "For the release of Fable: The Journey for Xbox&nbsp;Kinect, Xbox needed a way to bring the fun of Kinect to the browser. A bookmarklet was created that enabled users to destroy the internet. Using mouse gestures in the form of shapes in the browser, you could arm yourself with fire, lighting, or blades. A scoreboard kept track of all the highest scores as users brought destruction to the web.",
       "agency": "AKQA",
@@ -64,7 +64,7 @@
     },
     {
       "id": "brothers",
-      "client": "Xbox: Gears of War",
+      "client": "Xbox, Gears of War",
       "title": "Brothers to&nbsp;the&nbsp;End",
       "desc": "For the third installment of the Gears of War video game franchise, Xbox wanted to celebrate the brotherhood between the two main characters of the game. To bring this to the masses, visitors to the site were directed to invite a “brother” to simultaneously click a virtual detonator. If the two “brothers” clicked the buttons within specific time frame they would be treated to a video spectacle of explosions, special content and bragging rights.",
       "agency": "AKQA, Autofuss",
