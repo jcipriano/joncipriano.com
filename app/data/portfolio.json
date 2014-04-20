@@ -1,6 +1,6 @@
 {
   "title": "Jonathan Cipriano",
-  "desc": "I am a creative technologist based in San Francisco, CA. Presently, I am a Creative Research &amp; Development Manager at AKQA leading development and engineering on the Google, Levi's and Anheuser-Busch accounts. Throughout my nine year career I have created digital media and applications for some of the worlds top brands including Nike, Xbox, Target and Gap.",
+  "desc": "I am a creative developer based in San Francisco, CA. Presently, I am a Creative Research &amp; Development Manager at AKQA leading development and engineering on the Levi's and Anheuser-Busch accounts. Throughout my nine year career I have created digital media and applications for some of the worlds top brands including Nike, Xbox, Target and Gap.",
   "projects": [
     {
       "id": "makeourmark",
@@ -45,7 +45,7 @@
     {
       "id": "syldby",
       "client": "Gap",
-      "title": "Style.by",
+      "title": "Styld.by",
       "desc": "Gap needed a campaign to rebuild their style cred on the web. To achieve this, relationships were developed with popular style blogs across the web. Gap provided the clothes and the bloggers created their own looks that were featured on their website as well as the main campaign site. A Style.by look book widget was developed for bloggers to impleemnt right on their site. The campaign was a shining example of media, engineering, and creative integration.",
       "agency": "AKQA",
       "role": "Architect, Lead Developer",
